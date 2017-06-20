@@ -39,3 +39,13 @@
 # kit_icon: salvage
 # }
 ##
+{
+ckey: ursur
+character_name: Lexene Steiger
+item_path: /obj/item/instrument/guitar 
+item_name: shabby guitar
+item_icon: flagmask
+item_desc: A well-worn acoustic guitar with maple body wood. You can see several stickers on it, mostly ship names, and one saying 'Spacer'. It has black wire strings and a dark nylon strap.
+req_titles: Prospector, Mechanic, Entertainer
+req_access: 1
+}
